@@ -1,4 +1,6 @@
-### Pixi JS + Typescript + Vite template
+### Pixi JS + Typescript + Vite SlotsPrototype
+
+## Boilerplate by turbokirichenko https://github.com/turbokirichenko/pixijs-typescript-vite-template
 
 #### Just clone this repo and start to develop your own game!
 
